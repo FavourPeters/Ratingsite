@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.active{
+    background-color: lightgrey;
+    color: white
+}
